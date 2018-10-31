@@ -1,2 +1,4 @@
 # shopping-list
-shopping list for git workshop
+shopping list
+2 pair of jeans
+2 tops
